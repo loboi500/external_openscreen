@@ -1,3 +1,3 @@
-# This file is used by git-cl to get repository specific information.
-PROJECT: openscreen
-GERRIT_HOST: True
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbde3e44141384687bad5dc0d976f844399cffdb7babcc886cced93d9cd4e1b7
+size 108

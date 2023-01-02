@@ -1,7 +1,3 @@
-# -*- Mode: Python; -*-
-
-# The CDDL compiler is a standalone tool from the rest of OSP.
-include_rules = [
-    '-util',
-    '-platform',
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:dada31078dd2cff4331e73ad84ce3f2a41cc528ceaaa4678d02bd968d0337e8d
+size 138

@@ -1,7 +1,3 @@
-# Copyright 2019 The Chromium Authors. All rights reserved.
-# Use of this source code is governed by a BSD-style license that can be
-# found in the LICENSE file.
-
-include_rules = [
-    '+platform/impl',  # The OSP demo uses the default platform impl.
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff1aaccf8dc8b207a76b0c34197f2e30666ba2bbf7186149ed1fc64dd3d82d8b
+size 253

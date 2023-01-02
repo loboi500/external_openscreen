@@ -1,21 +1,3 @@
-# Copyright 2019 The Chromium Authors. All rights reserved.
-# Use of this source code is governed by a BSD-style license that can be
-# found in the LICENSE file.
-
-include_rules = [
-    '+platform',
-    '+json',
-
-    # BoringSSL includes
-    '+openssl',
-
-    # See below
-    '-logging_test.h'
-]
-
-specific_include_rules = {
-    'logging_(unittest|posix).cc': [
-        '+logging_test.h',
-    ],
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdbdff15332fd16be50a91a32a26dc8b19d0814711c7a85320eeca1994dbabc4
+size 396

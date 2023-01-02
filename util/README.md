@@ -1,6 +1,3 @@
-# Utility Code
-
-The util/ folder is meant to house core utility classes and logic that can be
-used by everything else in the Open Screen repository. Code here is permitted
-to include platform/api/ -- same as the rest of the repository. Includes things
-like string utils, the JSON serializer, our std_util.h header, and the alarm.
+version https://git-lfs.github.com/spec/v1
+oid sha256:910f7d8f5cf6a84ecfa936e73d274462e3b7cbd91b4c488f10a9d3dcc824dbf4
+size 329

@@ -1,5 +1,3 @@
-# -*- Mode: Python; -*-
-
-include_rules = [
-  '+discovery/mdns/public',
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:47d123764d75fe1d12249d0568ddf568646be41aa530bd0a45d29c726623b3ba
+size 73

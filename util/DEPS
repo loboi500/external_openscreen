@@ -1,7 +1,3 @@
-# Copyright 2019 The Chromium Authors. All rights reserved.
-# Use of this source code is governed by a BSD-style license that can be
-# found in the LICENSE file.
-
-include_rules = [
-    '+platform/api',
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f3ef8a08d1d3ebf8834c66c044144376a3841208732a0a2926fac4bd6cdc4cf
+size 204

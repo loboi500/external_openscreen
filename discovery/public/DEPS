@@ -1,5 +1,3 @@
-# -*- Mode: Python; -*-
-
-include_rules = [
-  '+discovery/dnssd/public',
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc7703fba37014eba82add401de8780ac415e4e3ce27111b4ce7415420a1c81f
+size 74

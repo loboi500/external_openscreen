@@ -1,7 +1,3 @@
-# Copyright 2019 The Chromium Authors. All rights reserved.
-# Use of this source code is governed by a BSD-style license that can be
-# found in the LICENSE file.
-
-include_rules = [
-    '+platform/impl',  # Needed by quic_test_support.h
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:2db933ee55fdcfd8e6e2d29ffce18a0d32e57527076c8f5642ea0efa56bca63c
+size 238

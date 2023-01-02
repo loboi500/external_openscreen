@@ -1,7 +1,3 @@
-# Copyright (c) 2019 The Chromium Authors. All rights reserved.
-# Use of this source code is governed by a BSD-style license that can be
-# found in the LICENSE file.
-
-include_rules = [
-    '+osp/impl/discovery/mdns',
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d84cffbf072855a9d0c02709afbc0ab736f759355ed33fc36736f25f4f888959
+size 219
